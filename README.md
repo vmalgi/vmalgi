@@ -1,85 +1,52 @@
-<h1> Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
+# Hey, I'm Vinayaka <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30">
 
-## 🚀 About Me
-👨‍🎓 I am Vinayaka, a Master's graduate in Data Science from Deakin University, Melbourne, Australia.
+Senior Data Scientist in Melbourne connecting research ideas with production ML systems. I enjoy building data products, simplifying complex domains, and making models reliable in the wild.
 
-:office: Previously Worked as a Market Risk Data Analyst in areas of Market Risk and Credit Risk for an investment banking company based out of Zurich Switzerland in Bangalore, India.
+- 🧠 Research interests: kernel similarity methods, large-margin classifiers (SVM), and dimensionality reduction.
+- 🛰️ Currently focused on AI Operations / MLOps and security-aware ML deployments.
+- 🧭 Career journey: Market Risk & Credit Risk → 5G ML → Supply chain RMA and logistics.
 
-:office: Previously Worked as a Data Scientist for a Consultancy company in the area of Machine Learning for 5G Networks.
+## What I'm learning right now
+- Building observability and feedback loops for ML systems.
+- Lightweight automation that keeps models explainable and resilient.
 
-:office: Currently working as a Senior Data Scientist for a Fortune 100 Product based company in area of parts Return Merchandise Authorisation (RMA) and supply chain logistics.
+## Tech I reach for
 
-<!-- :man_student: I Completed my Bachelors in Information Science and Engineering from Sri Jayachamarajendra College of Engineering, Mysore, India -->
+**Data & ML**
 
-✨ I love to explore AI and try to build a strong connection between theoretical and practical scenarios in today's digital world.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-My research interests covers Machine Learning, focusing on kernel similarity methods for Large Margin classifiers like Support Vector Machine classifer (SVM) and Dimensionality Reduction techniques.
+**Backend, Web & Ops**
 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-## 💻 I'm currently learning
+**Productivity**
 
-- AI Operations
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-## 🎯 Areas of Interest
-- Machine Learning
-- Data Mining and Data Analysis
-- Deep Learning
-- AI Operations (AI Ops/ML Ops)
-- Cybersecurity
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayaka.malgi)
+[![Email](https://img.shields.io/badge/Email-vinayakam19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayakam19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vmalgi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vmalgi)
 
-## 🔧 Tools and technologies
+## 📈 Profile snapshot
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vmalgi&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmalgi&layout=compact&count_private=true&hide=html,scss,ejs&theme=transparent&hide_border=true&line_height=18)
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"><a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R-project" width="40" height="40"/></a><a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/></a><a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/></a><a href="https://www.wireshark.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg" alt="Wireshark" width="70" height="40"/></a><a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg" alt="matplotlib" width="70" height="40"/></a><a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.simpleicons.org/tableau" alt="tableau" width="40" height="40"/></a><a href="https://colab.research.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/colaboratory.svg" alt="google_colab" width="40" height="40"/></a>
- <a href="https://keras.io/" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras-text.svg" alt="keras" width="70" height="40"/></a>
- <a href="https://www.latex-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/LaTeX.svg" alt="latex" width="40" height="40"/></a>
-</p>
-
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> You can also find me on
-
-[<img align="left" alt="vmalgi| LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="vmalgi | Gmail" width="40px" src="https://img.icons8.com/color/gmail" />][gmail]
-[<img align="left" alt="vmalgi | github" width="40px" src="https://img.icons8.com/color/github" />][github]
-
-<br>
-<br>
-
-
-[linkedin]: https://www.linkedin.com/in/vinayaka.malgi
-[gmail]: mailto:vinayakam19@gmail.com
-[github]: https://github.com/vmalgi
-
-
-
-
-## &#x1f4c8; Profile Stats
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=vmalgi&label=Profile%20views&color=0e75b6&style=flat" alt="vmalgi" />                         
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vmalgi" alt="Visitors">                     
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmalgi&" alt="vmalgi" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmalgi&layout=compact&count_private=true&hide=html,scss,,ejs&theme=default&line_height=10" />
-</p>
-
-<p align="center">
- Note : Most used languages doesn't indicate my skillset, it's a github metric of which languages I have the most code on the github. These languages can change in future.
-  </p>
-</p>
-
-<!--
-**Vinayakam19/Vinayakam19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Note: “Most used languages” reflects GitHub-reported code volume, not proficiency, and may change over time.</sub>
