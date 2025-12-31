@@ -122,13 +122,18 @@ I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science fr
   <img src="https://komarev.com/ghpvc/?username=vmalgi&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=555555&v=3" alt="Profile Views" />
 </div>
 
+<br/>
+
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats-eight-omega.vercel.app?user=vmalgi&theme=github-dark-blue&hide_border=false&border_radius=10&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub Streak" />
+  &nbsp;&nbsp;
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vmalgi&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&v=5" alt="GitHub Stats" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vmalgi&layout=compact&langs_count=8&hide=html,scss,ejs&theme=github_dark&hide_border=false&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&card_width=418&v=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vmalgi&layout=compact&langs_count=8&hide=html,scss,ejs&theme=github_dark&hide_border=false&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&card_width=416&v=9" alt="Top Languages" />
 </div>
 
 <p align="center">
