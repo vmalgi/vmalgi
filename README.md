@@ -58,9 +58,9 @@ I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science fr
 
 ## ⚡ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="42%">
+<td valign="top" width="50%">
 
 ### Languages
 <a href="#"><img src="https://skillicons.dev/icons?i=python,r,bash&theme=dark" /></a>
@@ -74,8 +74,7 @@ I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science fr
 <a href="#"><img src="https://skillicons.dev/icons?i=git,linux,vscode,docker,flask&theme=dark" /></a>
 
 </td>
-<td align="center" width="16%"><img width="2" height="320" src="https://placehold.co/2x320/6e7681/6e7681.png"></td>
-<td valign="top" width="42%">
+<td valign="top" width="50%">
 
 ### Databases
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
@@ -123,7 +122,7 @@ I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science fr
 </div>
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=vmalgi&theme=github-dark-blue&hide_border=true&border_radius=10&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-streak-stats-eight-omega.vercel.app?user=vmalgi&theme=github-dark-blue&hide_border=true&border_radius=10&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub Streak" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vmalgi&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&v=2" alt="GitHub Stats" />
 </div>
 
