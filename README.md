@@ -128,7 +128,7 @@ I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science fr
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vmalgi&layout=compact&langs_count=8&hide=html,scss,ejs&theme=github_dark&hide_border=false&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&card_width=445&v=6" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vmalgi&layout=compact&langs_count=8&hide=html,scss,ejs&theme=github_dark&hide_border=false&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&card_width=420&v=7" alt="Top Languages" />
 </div>
 
 <p align="center">
