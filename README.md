@@ -58,61 +58,52 @@ I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science fr
 
 ## 🔧 Tools and Technologies
 
-<table align="center" cellpadding="12" cellspacing="0">
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <p><b>💻 Languages</b></p>
-      <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://www.r-project.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-      <br/><br/>
-      <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <p><b>🗄️ Database</b></p>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://www.snowflake.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <p><b>🛠️ DevOps & Tools</b></p>
-      <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/>
-      <br/><br/>
-      <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <p><b>🤖 ML Frameworks</b></p>
-      <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-      <br/><br/>
-      <a href="https://keras.io/" target="_blank"><img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras-text.svg" alt="keras" height="35"/></a>&nbsp;&nbsp;
-      <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://www.dataiku.com/" target="_blank"><img src="https://www.dataiku.com/wp-content/uploads/2025/04/DKU_LOGO_Teal.svg" alt="dataiku" width="40" height="40"/></a>
-    </td>
-    <td align="center" valign="top">
-      <p><b>📊 Data & Visualization</b></p>
-      <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>
-      <br/><br/>
-      <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/></a>
-    </td>
-    <td align="center" valign="top">
-      <p><b>🚀 Productivity</b></p>
-      <a href="https://colab.research.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/colaboratory.svg" alt="colab" width="40" height="40"/></a>&nbsp;&nbsp;
-      <a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/LaTeX.svg" alt="latex" width="40" height="40"/></a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+**💻 Languages**
+
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.r-project.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+
+**🗄️ Database**
+
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.snowflake.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a>
+
+**🛠️ DevOps & Tools**
+
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
+
+**🤖 ML Frameworks**
+
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://keras.io/" target="_blank"><img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras-text.svg" alt="keras" height="35"/></a>&nbsp;&nbsp;
+<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.dataiku.com/" target="_blank"><img src="https://www.dataiku.com/wp-content/uploads/2025/04/DKU_LOGO_Teal.svg" alt="dataiku" width="40" height="40"/></a>
+
+**📊 Data & Visualization**
+
+<a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/></a>
+
+**🚀 Productivity**
+
+<a href="https://colab.research.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/colaboratory.svg" alt="colab" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/LaTeX.svg" alt="latex" width="40" height="40"/></a>
+
+</div>
 
 ## 🔗 Connect with me
 
@@ -141,7 +132,7 @@ I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science fr
 </div>
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=vmalgi&theme=github-dark-blue&hide_border=true&border_radius=10&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9&v=2" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=vmalgi&theme=github-dark-blue&hide_border=true&border_radius=10&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub Streak" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vmalgi&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&v=2" alt="GitHub Stats" />
 </div>
 
