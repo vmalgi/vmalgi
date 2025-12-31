@@ -60,7 +60,7 @@ I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science fr
 
 <table width="100%">
 <tr>
-<td valign="top" width="45%">
+<td valign="top" width="40%">
 
 ### Languages
 <a href="#"><img src="https://skillicons.dev/icons?i=python,r,bash&theme=dark" /></a>
@@ -74,8 +74,8 @@ I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science fr
 <a href="#"><img src="https://skillicons.dev/icons?i=git,linux,vscode,docker,flask&theme=dark" /></a>
 
 </td>
-<td width="10%"></td>
-<td valign="top" width="45%">
+<td width="20%"></td>
+<td valign="top" width="40%">
 
 ### Databases
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
