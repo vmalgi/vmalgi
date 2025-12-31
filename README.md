@@ -59,35 +59,32 @@ I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science fr
 ## ⚡ Tech Stack
 
 <div align="center">
-
-**Languages** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Databases**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=python,r,bash&theme=dark" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
-<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="48" height="48"/>
-
-<br/>
-
-**ML & AI Frameworks** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Data & Visualization**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" /></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="48" height="48"/>
-<img src="https://www.dataiku.com/wp-content/uploads/2025/04/DKU_LOGO_Teal.svg" alt="dataiku" width="48" height="48"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="48" height="48"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="48" height="48"/>
-
-<br/>
-
-**DevOps & Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Productivity**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=git,linux,vscode,docker,flask&theme=dark" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/colaboratory.svg" alt="colab" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/LaTeX.svg" alt="latex" width="48" height="48"/>
+<table border="0" cellspacing="20">
+<tr>
+<td align="center" width="50%"><b>Languages</b></td>
+<td align="center" width="50%"><b>Databases</b></td>
+</tr>
+<tr>
+<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,r,bash&theme=dark" /></a></td>
+<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="48" height="48"/></td>
+</tr>
+<tr>
+<td align="center"><b>ML & AI Frameworks</b></td>
+<td align="center"><b>Data & Visualization</b></td>
+</tr>
+<tr>
+<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" /></a> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="48" height="48"/> <img src="https://www.dataiku.com/wp-content/uploads/2025/04/DKU_LOGO_Teal.svg" alt="dataiku" width="48" height="48"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="48" height="48"/> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="48" height="48"/></td>
+</tr>
+<tr>
+<td align="center"><b>DevOps & Tools</b></td>
+<td align="center"><b>Productivity</b></td>
+</tr>
+<tr>
+<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=git,linux,vscode,docker,flask&theme=dark" /></a></td>
+<td align="center"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/colaboratory.svg" alt="colab" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=latex&theme=dark" /></td>
+</tr>
+</table>
 
 </div>
 
