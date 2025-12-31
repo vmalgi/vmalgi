@@ -123,7 +123,7 @@ I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science fr
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=vmalgi&theme=github-dark-blue&hide_border=true&border_radius=10&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=vmalgi&theme=github-dark-blue&hide_border=true&border_radius=10&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub Streak" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vmalgi&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&v=2" alt="GitHub Stats" />
 </div>
 
