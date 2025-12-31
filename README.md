@@ -60,28 +60,34 @@ I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science fr
 
 <div align="center">
 
-**Languages**<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=python,r,bash,html,css&theme=dark" /></a>
+**Languages** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Databases**
 
-**Databases**<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /></a>
-<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="45" height="45"/>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,r,bash&theme=dark" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="48" height="48"/>
 
-**ML & AI Frameworks**<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" /></a>
+<br/>
 
-**Data & Visualization**<br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="45" height="45"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="45" height="45"/>
+**ML & AI Frameworks** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Data & Visualization**
 
-**DevOps & Tools**<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=git,linux,vscode,docker,flask,bootstrap&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="48" height="48"/>
+<img src="https://www.dataiku.com/wp-content/uploads/2025/04/DKU_LOGO_Teal.svg" alt="dataiku" width="48" height="48"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="48" height="48"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="48" height="48"/>
 
-**Productivity**<br/>
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/colaboratory.svg" alt="colab" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/LaTeX.svg" alt="latex" width="45" height="45"/>
+<br/>
+
+**DevOps & Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Productivity**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=git,linux,vscode,docker,flask&theme=dark" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/colaboratory.svg" alt="colab" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/LaTeX.svg" alt="latex" width="48" height="48"/>
 
 </div>
 
