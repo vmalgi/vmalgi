@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Vinayaka;Welcome+to+my+profile+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <b>Senior Data Scientist</b> • Machine Learning • Generative AI • Agentic AI
+  <b>Lead Data Scientist</b> • Machine Learning • Generative AI • Agentic AI
 </p>
 
 ## 🚀 About Me
 
-I'm **Vinayaka**, a **Senior Data Scientist** with a Master's in Data Science from **Deakin University**, Melbourne, Australia.
+I'm **Vinayaka**, a **Lead Data Scientist** with a Master's in Data Science from **Deakin University**, Melbourne, Australia.
 
 💼 Currently at a **Fortune 100 product-based company**, I build ML-powered solutions for return analytics and leverage **Generative & Agentic AI** to optimize supply chain operations.
 
