@@ -12,6 +12,8 @@ I'm **Vinayaka**, a **Lead Data Scientist** with a Master's in Data Science from
 💼 Currently at a **Fortune 100 product-based company**, I build ML-powered solutions for return analytics and leverage **Generative & Agentic AI** to optimize supply chain operations.
 
 📌 **My Journey:**
+- 🚀 **Lead Data Scientist** — Building Generative & Agentic AI solutions for supply-chain and returns analytics
+- 🧠 **Senior Data Scientist** — Designed and delivered GenAI decision-support and demand-forecasting platforms
 - 🔬 **Data Scientist** — Developed Machine Learning solutions for 5G Networks
 - 📊 **Market Risk Data Analyst** — Worked on Market & Credit Risk analytics for a global investment bank
 
