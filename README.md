@@ -90,7 +90,7 @@ I'm **Vinayaka**, a **Lead Data Scientist** with a Master's in Data Science from
 ## 🔗 Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vinayaka.malgi" target="_blank">
+  <a href="https://www.linkedin.com/in/vinayaka-malgi" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:vinayakam19@gmail.com" target="_blank">
